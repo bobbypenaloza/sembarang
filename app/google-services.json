@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "806387366515",
+    "project_id": "perpustakaan-book-3p",
+    "storage_bucket": "perpustakaan-book-3p.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806387366515:android:e57dc7cd756d2896460806",
+        "android_client_info": {
+          "package_name": "com.example.perpustakaanbook3p"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806387366515-p92gej5tl655vbe4c64r4hif8ppg0gq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD9Sx2ip_e6E6PrRqSET_L3LYc0n3PmsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806387366515-p92gej5tl655vbe4c64r4hif8ppg0gq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
